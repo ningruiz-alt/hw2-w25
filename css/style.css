@@ -55,9 +55,9 @@ div {
 }
 
 .blue {
-    background-color: #000FFF;
+    background-color: #0000FF;
     text-align: left;
-    margin-left: 50px;
+    margin-right: 50px;
     border-width: 2px 5px 0 0;
     border-style: solid;
     border-color: #FFFFFF;
@@ -88,20 +88,19 @@ div {
 .green {
     background-color: #008500;
     text-align: left;
-    margin-left: 50px;
+    margin-right: 50px;
     border: 2px 5px 0 0;
     border-style: solid;
     border-color: #FFFFFF;
 }
 
 footer {
-    background-color: #000000;
-    background-image: linear-gradient(to right, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);
-    border-width: 5px solid #FFFFFF;
+    background: linear-gradient(to right, #000000 0%, #0000FF 25%, #0066FF 70%, #000000 100%);
+    border: 5px solid #FFFFFF;
 }
 
 footer p {
     font-size: 20px;
     text-align: right;
-    padding: 15px 15ps 15px 0px;
+    padding: 15px 15px 15px 0px;
 }
