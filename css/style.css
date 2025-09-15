@@ -89,9 +89,10 @@ div {
     background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border: 2px 5px 0 0;
-    border-style: solid;
-    border-color: #FFFFFF;
+    border-right: 5px solid #ffffff;
+    border-top: 2px solid #FFFFFF;
+    border-left: none;
+    border-bottom: none;
 }
 
 footer {
